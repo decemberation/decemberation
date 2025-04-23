@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Cloud Security</b>
+  - [Microsoft Azure Cloud Security Implementation Guide](https://github.com/decemberation/azure-cloud-security)
 - <b>Honeypot</b>
   - [Azure Honeypot Project: Cloud-based Threat Detection Lab](https://github.com/decemberation/azure-honeypot-lab)
 - <b>On-premises Home Lab</b>
